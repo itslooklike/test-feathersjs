@@ -5,4 +5,6 @@ npm start
 npm run serve
 ```
 
-http://localhost:3030/ideas
+```sh
+curl http://localhost:3030/ideas
+```
